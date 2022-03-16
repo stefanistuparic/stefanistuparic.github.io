@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stefanistuparic.github.io/static/css/main.510854b8.css",
+    "main.js": "/stefanistuparic.github.io/static/js/main.ed9e82f1.js",
+    "static/media/background-main.png": "/stefanistuparic.github.io/static/media/background-main.96cdbdee3d14f9824063.png",
+    "static/media/logo.svg": "/stefanistuparic.github.io/static/media/logo.b0112ab08268472f81670d8615ca446e.svg",
+    "index.html": "/stefanistuparic.github.io/index.html",
+    "static/media/search.svg": "/stefanistuparic.github.io/static/media/search.51aea68a100c7e316a61ef75c8d270f3.svg",
+    "main.510854b8.css.map": "/stefanistuparic.github.io/static/css/main.510854b8.css.map",
+    "main.ed9e82f1.js.map": "/stefanistuparic.github.io/static/js/main.ed9e82f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.510854b8.css",
+    "static/js/main.ed9e82f1.js"
+  ]
+}
